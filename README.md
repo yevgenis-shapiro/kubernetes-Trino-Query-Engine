@@ -1,5 +1,4 @@
-<img width="1500" height="1125" alt="dbt-trino-architecture" src="https://github.com/user-attachments/assets/3a04392d-dabf-4e19-b5a2-aef85b40c5a7" />
-
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/9ea7a3aa-a73f-433b-b92d-1ba8aa129c7e" />
 
 
 ## Kubernetes | Trino SQL Query Engine
