@@ -15,11 +15,11 @@ Trino (formerly known as PrestoSQL) is an open-source, distributed SQL query eng
 
 
 🧠 Architecture Overview:
-
-✅ Coordinator Node – Parses queries, plans execution, and schedules work.
-✅ Worker Nodes – Execute query tasks and process data.
-✅ Catalogs & Connectors – Define how Trino connects to external systems.
-
+```
+🧱 Coordinator Node – Parses queries, plans execution, and schedules work.
+🧱 Worker Nodes – Execute query tasks and process data.
+🧱 Catalogs & Connectors – Define how Trino connects to external systems.
+```
      
 
 🚀 Deployment Options
